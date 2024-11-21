@@ -1,6 +1,6 @@
 export const environment = {
   firebaseConfig: {
-  apiKey: "AIzaSyBwMwfd6S_ClxN0R2-caRoEBr2_Z5LslvA",
+  apiKey: "",
   authDomain: "crud-users-angular-d0d70.firebaseapp.com",
   projectId: "crud-users-angular-d0d70",
   storageBucket: "crud-users-angular-d0d70.appspot.com",
