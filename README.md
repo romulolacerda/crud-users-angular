@@ -11,7 +11,7 @@ O Crud Users é uma aplicação desenvolvida para gerenciar usuários e seus ben
 - Visualização de benefícios
 - Dashboard com estatísticas do sistema
 
-![Dashboard](caminho/para/imagem2.png)
+![Dashboard](src/assets/img02.png)
 
 ## Tecnologias Utilizadas
 A aplicação foi desenvolvida utilizando as seguintes tecnologias:
