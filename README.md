@@ -3,7 +3,7 @@
 ## Descrição
 O Crud Users é uma aplicação desenvolvida para gerenciar usuários e seus benefícios de forma eficiente. A interface é intuitiva e permite a adição, edição e exclusão de usuários, além de fornecer um dashboard com informações relevantes sobre o sistema.
 
-![Tela de Login](caminho/para/imagem1.png)
+![Tela de Login](src/assets/img01.png)
 
 ## Funcionalidades
 - Cadastro de usuários
