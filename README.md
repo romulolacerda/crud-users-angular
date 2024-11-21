@@ -16,7 +16,7 @@ O Crud Users é uma aplicação desenvolvida para gerenciar usuários e seus ben
 ## Tecnologias Utilizadas
 A aplicação foi desenvolvida utilizando as seguintes tecnologias:
 
-- **Angular**: Framework para construção de aplicações web.
+- **Angular 17**: Framework para construção de aplicações web.
 - **Firebase**: Plataforma para autenticação e gerenciamento de dados.
 - **Bootstrap**: Framework CSS para design responsivo.
 
