@@ -1,27 +1,57 @@
-# CrudUsuarios
+# Crud Users
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+## Descrição
+O Crud Users é uma aplicação desenvolvida para gerenciar usuários e seus benefícios de forma eficiente. A interface é intuitiva e permite a adição, edição e exclusão de usuários, além de fornecer um dashboard com informações relevantes sobre o sistema.
 
-## Development server
+## Funcionalidades
+- Cadastro de usuários
+- Edição e exclusão de usuários
+- Visualização de benefícios
+- Dashboard com estatísticas do sistema
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
+A aplicação foi desenvolvida utilizando as seguintes tecnologias:
 
-## Code scaffolding
+- **Angular**: Framework para construção de aplicações web.
+- **Firebase**: Plataforma para autenticação e gerenciamento de dados.
+- **Bootstrap**: Framework CSS para design responsivo.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Dependências Principais
+As principais dependências utilizadas no projeto, conforme o `package.json`, incluem:
 
-## Build
+- `@angular/animations`: ^17.0.0
+- `@angular/cdk`: ^17.0.4
+- `@angular/common`: ^17.0.0
+- `@angular/compiler`: ^17.0.0
+- `@angular/core`: ^17.0.0
+- `@angular/fire`: ^17.1.0
+- `@angular/forms`: ^17.0.0
+- `@angular/material`: ^17.0.4
+- `@angular/router`: ^17.0.0
+- `bootstrap`: ^5.3.3
+- `firebase`: ^10.12.3
+- `rxjs`: ~7.8.0
+- `zone.js`: ~0.14.2
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Scripts
+Os seguintes scripts estão disponíveis para facilitar o desenvolvimento:
 
-## Running unit tests
+- `ng`: Comando para executar o Angular CLI.
+- `start`: Inicia o servidor de desenvolvimento.
+- `build`: Compila a aplicação para produção.
+- `watch`: Compila a aplicação em modo de desenvolvimento com observação de mudanças.
+- `test`: Executa os testes da aplicação.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como Executar
+Para executar a aplicação localmente, siga os passos abaixo:
 
-## Running end-to-end tests
+1. Clone o repositório.
+2. Navegue até o diretório do projeto.
+3. Execute `npm install` para instalar as dependências.
+4. Execute `npm start` para iniciar a aplicação.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
