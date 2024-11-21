@@ -20,6 +20,8 @@ A aplicação foi desenvolvida utilizando as seguintes tecnologias:
 - **Firebase**: Plataforma para autenticação e gerenciamento de dados.
 - **Bootstrap**: Framework CSS para design responsivo.
 
+![Tabela](src/assets/img03.png)
+
 ## Dependências Principais
 As principais dependências utilizadas no projeto, conforme o `package.json`, incluem:
 
@@ -36,6 +38,8 @@ As principais dependências utilizadas no projeto, conforme o `package.json`, in
 - `firebase`: ^10.12.3
 - `rxjs`: ~7.8.0
 - `zone.js`: ~0.14.2
+
+![Cadastro](src/assets/img04.png)
 
 ## Scripts
 Os seguintes scripts estão disponíveis para facilitar o desenvolvimento:
